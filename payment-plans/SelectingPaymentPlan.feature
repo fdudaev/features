@@ -9,4 +9,6 @@ Feature: Selecting a payment plan
         #   2. When the user selects any payment plan (Accordion) that option should be highlighted to indicate selection.
         #   3. Upon selecting any pricing option, the 'Next' button should become active (indicating the user can proceed).
         #   4. Users should be able to change their plan selections at any time before finalizing their choice.
+
+        
         
